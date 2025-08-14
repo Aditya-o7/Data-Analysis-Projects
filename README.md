@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-My portfolio of data analytics projects, showcasing skills in data cleaning, visualization, and insights generation using SQL, Power BI , Excel &amp; Python.
+Hello ! Welcome to My portfolio of Data Analytics projects, where I Have showcased skills in Data cleaning, Visualization, and Insights generation using SQL, Power BI , Excel &amp; Python.
